@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Cursando análise e desenvolvimento de sistemas.<br>🤝 A procura de um emprego em desenvolvimento mobile Android<br>⚡ Linguagem de programação: Kotlin
+🎓 Cursando análise e desenvolvimento de sistemas.<br>🤝 A procura de um emprego como desenvolvedor mobile Android<br>
 
 
 ## 🌐 Socials:
